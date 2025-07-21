@@ -1,5 +1,8 @@
 # React + Vite
 
+Check the results here! https://movie-searcher-elias.vercel.app/
+A good project to practice react, tailwind, git, github, API and much more
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
